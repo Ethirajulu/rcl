@@ -1,0 +1,834 @@
+[
+  {
+    "match": 1,
+    "team1": "Flash XI",
+    "team2": "ImmortalZ",
+    "isCompleted": false,
+    "date": "27 June 2019 (Thursday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "fours": "10",
+            "sixes": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "20",
+        "wickets": "2",
+        "totalruns": "1930",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "ImmortalZ",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 2,
+    "team1": "Bounce BreakerZ",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "28 June 2019 (Friday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 3,
+    "team1": "Bounce BreakerZ",
+    "team2": "Immortalz",
+    "isCompleted": false,
+    "date": "01 July 2019 (Monday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 4,
+    "team1": "Flash XI",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "05 July 2019 (Friday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 5,
+    "team1": "Bounce BreakerZ",
+    "team2": "Flash XI",
+    "isCompleted": false,
+    "date": "08 July 2019 (Monday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 6,
+    "team1": "ImmortalZ",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "09 July 2019 (Tuesday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 7,
+    "team1": "Bounce BreakerZ",
+    "team2": "Flash XI",
+    "isCompleted": false,
+    "date": "11 July 2019 (Thursday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 8,
+    "team1": "Flash XI",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "15 July 2019 (Monday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 9,
+    "team1": "Bounce BreakerZ",
+    "team2": "ImmortalZ",
+    "isCompleted": false,
+    "date": "16 July 2019 (Tuesday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 10,
+    "team1": "ImmortalZ",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "18 July 2019 (Thursday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 11,
+    "team1": "Bounce BreakerZ",
+    "team2": "StrikerZ",
+    "isCompleted": false,
+    "date": "22 July 2019 (Monday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": 12,
+    "team1": "Flash XI",
+    "team2": "ImmortalZ",
+    "isCompleted": false,
+    "date": "23 July 2019 (Tuesday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "13 - FINALS",
+    "team1": "TBD",
+    "team2": "TBD",
+    "isCompleted": false,
+    "date": "25 July 2019 (Tuesday) 15:30",
+    "winner": "",
+    "scores": {
+      "team1": {
+        "name": "Flash XI",
+        "battingscore": [
+          {
+            "player": "Sathish",
+            "status": "Not out",
+            "runs": "100",
+            "balls": "2",
+            "4s": "10",
+            "6s": "10",
+            "sr": "500"
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      },
+      "team2": {
+        "name": "",
+        "battingscore": [
+          {
+            "player": "",
+            "status": "",
+            "runs": "",
+            "balls": "",
+            "4s": "",
+            "6s": "",
+            "sr": ""
+          }
+        ],
+        "extras": "",
+        "wickets": "",
+        "totalruns": "",
+        "bowlingscore": [
+          {
+            "bowler": "",
+            "overs": "",
+            "maiden": "",
+            "runs": "",
+            "wickets": "",
+            "economy": ""
+          }
+        ]
+      }
+    }
+  }
+]

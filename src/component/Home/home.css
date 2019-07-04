@@ -1,0 +1,43 @@
+.mt-8 {
+  margin-top: 6rem;
+}
+
+.ml-6 {
+  margin-left: 6.5rem;
+}
+
+.f-1 {
+  font-size: 2rem;
+}
+
+.pt-6 {
+  padding-top: 2.2rem;
+}
+
+.ml-7 {
+  margin-left: 4.5rem;
+}
+
+.mt-6 {
+  margin-top: 2rem;
+}
+
+.card-deck {
+  color: white;
+}
+
+.transparent {
+  background: rgb(255, 255, 255, 0.125);
+}
+
+#time-counter {
+  font-size: 2rem;
+}
+
+.card-header {
+  background: rgb(255, 255, 255, 0.3);
+}
+
+.card-footer {
+  background: rgb(255, 255, 255, 0.3);
+}

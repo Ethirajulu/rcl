@@ -1,0 +1,378 @@
+[
+  {
+    "teamName": "StrikerZ",
+    "squad": [
+      {
+        "name": "Avinash (Owner)",
+        "role": "Batsman"
+      },
+      {
+        "name": "Arun kumar (Captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Naveen (Vice captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Ethiraj",
+        "role": "All rounder"
+      },
+      {
+        "name": "Parthasarathy",
+        "role": "All rounder"
+      },
+      {
+        "name": "Shiju",
+        "role": "All Rounder"
+      },
+      {
+        "name": "Achuthaperumal",
+        "role": "Batsman"
+      },
+      {
+        "name": "Vishnu prakash",
+        "role": "Batsman"
+      },
+      {
+        "name": "Sivasankaran",
+        "role": "Batsman"
+      },
+      {
+        "name": "Satieshkumar anbalagan",
+        "role": "Batsman"
+      },
+      {
+        "name": "Karthikeyan Kannan",
+        "role": "Batsman"
+      },
+      {
+        "name": "Geetha",
+        "role": "All rounder"
+      },
+      {
+        "name": "Priyalakshmi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Anushiya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Santhyaa",
+        "role": "All rounder"
+      },
+      {
+        "name": "Abinaya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Tharini",
+        "role": "All rounder"
+      },
+      {
+        "name": "Keethy Bose",
+        "role": "All rounder"
+      },
+      {
+        "name": "Indumathi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Saranya Balakrishnan",
+        "role": "All rounder"
+      }
+    ]
+  },
+  {
+    "teamName": "Bounce BreakerZ",
+    "squad": [
+      {
+        "name": "Kathik I Rangasamy (Owner)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Praveen (Captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Vishnu (Vice captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Harish",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sarath",
+        "role": "Batsman"
+      },
+      {
+        "name": "Nikhil",
+        "role": "Batsman"
+      },
+      {
+        "name": "Nirmal",
+        "role": "All rounder"
+      },
+      {
+        "name": "Pragadheeswaran",
+        "role": "All rounder"
+      },
+      {
+        "name": "Venkat S",
+        "role": "All rounder"
+      },
+      {
+        "name": "Vignesh Ramesh",
+        "role": "Batsman"
+      },
+      {
+        "name": "Vinodh Kumar",
+        "role": "Batsman"
+      },
+      {
+        "name": "Anees",
+        "role": "Batsman"
+      },
+      {
+        "name": "Senthil kumar",
+        "role": "Batsman"
+      },
+      {
+        "name": "Selja",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sushmitha",
+        "role": "All rounder"
+      },
+      {
+        "name": "Bavatharini",
+        "role": "All rounder"
+      },
+      {
+        "name": "Akshaya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Ashika Unnikrishnan",
+        "role": "All rounder"
+      },
+      {
+        "name": "Bagyalakshmi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Divya subramanium",
+        "role": "All rounder"
+      },
+      {
+        "name": "Shalini gupta",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sushaptha",
+        "role": "All rounder"
+      }
+    ]
+  },
+  {
+    "teamName": "ImmortalZ",
+    "squad": [
+      {
+        "name": "Sridhar (Owner)",
+        "role": "Batsman"
+      },
+      {
+        "name": "Raghul (Captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Arun Rajendra pillai (Vice captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Saravanan",
+        "role": "All rounder"
+      },
+      {
+        "name": "Venkat R",
+        "role": "All rounder"
+      },
+      {
+        "name": "Ganesh",
+        "role": "All rounder"
+      },
+      {
+        "name": "Muniraju",
+        "role": "Batsman"
+      },
+      {
+        "name": "Hamid Ibrahim",
+        "role": "Batsman"
+      },
+      {
+        "name": "Sivakumar",
+        "role": "Batsman"
+      },
+      {
+        "name": "Abraham",
+        "role": "Batsman"
+      },
+      {
+        "name": "Aravindh",
+        "role": "All rounder"
+      },
+      {
+        "name": "Reyaz Ibrahim",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sreenivaasan suyamprakasam",
+        "role": "Batsman"
+      },
+      {
+        "name": "Suresh kumar",
+        "role": "Batsman"
+      },
+      {
+        "name": "Jose Luckose",
+        "role": "Batsman"
+      },
+      {
+        "name": "Kathik Kannan",
+        "role": "Batsman"
+      },
+      {
+        "name": "Anju",
+        "role": "All rounder"
+      },
+      {
+        "name": "Pavithra",
+        "role": "All rounder"
+      },
+      {
+        "name": "Yaazhlene",
+        "role": "All rounder"
+      },
+      {
+        "name": "Shruthi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Nivedhitha",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sasi seerthi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Shumugapriya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Dhrishya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Srinidhi",
+        "role": "All rounder"
+      }
+    ]
+  },
+  {
+    "teamName": "Flash XI",
+    "squad": [
+      {
+        "name": "Raja (Owner)",
+        "role": "Batsman"
+      },
+      {
+        "name": "Keethi vasan (Captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Saravana kumar (Vice captain)",
+        "role": "All rounder"
+      },
+      {
+        "name": "Anoop",
+        "role": "All rounder"
+      },
+      {
+        "name": "Venkat G",
+        "role": "All rounder"
+      },
+      {
+        "name": "Arun pandian",
+        "role": "All rounder"
+      },
+      {
+        "name": "Palanivel",
+        "role": "All rounder"
+      },
+      {
+        "name": "Ponnarasu",
+        "role": "Batsman"
+      },
+      {
+        "name": "Anish J",
+        "role": "Batsman"
+      },
+      {
+        "name": "Divyaraj",
+        "role": "Batsman"
+      },
+      {
+        "name": "Manikandan",
+        "role": "Batsman"
+      },
+      {
+        "name": "Tharun kumar",
+        "role": "Batsman"
+      },
+      {
+        "name": "Sushith",
+        "role": "Batsman"
+      },
+      {
+        "name": "Sreeni",
+        "role": "Batsman"
+      },
+      {
+        "name": "Hemalatha",
+        "role": "All rounder"
+      },
+      {
+        "name": "Rachel Ann",
+        "role": "All rounder"
+      },
+      {
+        "name": "Arthi mohan",
+        "role": "All rounder"
+      },
+      {
+        "name": "Chandini",
+        "role": "All rounder"
+      },
+      {
+        "name": "Saranya Venkatraman",
+        "role": "All rounder"
+      },
+      {
+        "name": "Shanmathi",
+        "role": "All rounder"
+      },
+      {
+        "name": "Sherin Iniya",
+        "role": "All rounder"
+      },
+      {
+        "name": "Suriya shree",
+        "role": "All rounder"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+.mr-10 {
+  margin-right: 10rem;
+}
+
+.MuiPaper-root {
+  width: 60rem;
+  margin-left: 12rem !important;
+  max-width: 70rem !important;
+}
+
+.MuiAppBar-root {
+  width: 30rem !important;
+}
+
+.h-10 {
+  height: 90%;
+}
+
+.ml-10 {
+  margin-left: 37%;
+}

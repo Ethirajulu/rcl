@@ -1,0 +1,26 @@
+{
+  "home": {
+    "opponent1": "Flash XI",
+    "opponent2": "ImmortalZ",
+    "date": "27 June 2019 (Thursday) 15:30",
+    "mvp": {
+      "name": "TBD",
+      "points": "0",
+      "team": "TBD"
+    },
+    "mr": {
+      "name": "TBD",
+      "runs": "0",
+      "team": "TBD"
+    },
+    "mw": {
+      "name": "TBD",
+      "wickets": "0",
+      "team": "TBD"
+    },
+    "fairplay": {
+      "name": "TBD",
+      "points": "0"
+    }
+  }
+}
